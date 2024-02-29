@@ -1,0 +1,21 @@
+﻿@using Entities
+@model Category
+
+@{
+    Layout = "_AdminLayout";
+    TempData["title"] = "صفحه ویرایش دسته بندی";
+}
+
+
+<h2>صفحه ویرایش دسته بندی</h2>
+
+<di class="container col-lg-4">
+    <form asp-action="EditCategory" method="post">
+        <label class="form-label" asp-for="@Model.Title">عنوان</label>
+        <input class="form-control" type="text" asp-for="@Model.Title" />
+
+        <div class="d-grid gap-2">
+            <input type="submit" class="btn btn-outline-primary" value="ویرایش" />
+        </div>
+    </form>
+</di>

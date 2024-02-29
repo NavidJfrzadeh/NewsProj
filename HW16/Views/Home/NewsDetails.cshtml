@@ -1,0 +1,26 @@
+﻿@using Entities
+@model News
+
+@{
+    ViewData["Title"] = "صفحه جزئیات";
+}
+
+<h2>عنوان : @Model.Title</h2>
+
+<div class="container mt-3">
+    <img src="@Model.PictureLocation" alt="@Model.PictureAlt" />
+</div>
+
+<div class="container col-lg-10">
+    <div>
+        <p>نام نویسنده خبر : @Model.Reporter.FirstName @Model.Reporter.LastName</p>
+    </div>
+    <div class="mb-3">
+        <p>در دسته بندی : @Model.Category.Title</p>
+    </div>
+    <div class="my-3">
+        <p>متن خبر : @Model.Description</p>
+    </div>
+
+    <a asp-action="Index" class="btn btn-sm btn-outline-primary">بازگشت</a>
+</div>

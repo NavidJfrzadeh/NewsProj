@@ -1,0 +1,31 @@
+﻿@using Entities
+@model News
+
+@{
+    ViewData["Title"] = "صفحه جزئیات";
+    Layout = "_AdminLayout";
+}
+
+<h2>عنوان : @Model.Title</h2>
+
+<div class="container mt-3">
+    <img src="@Model.PictureLocation" alt="@Model.PictureAlt" />
+</div>
+<div>
+    <span>وضعیت : @Model.IsActive</span>
+</div>
+<div class="container col-lg-10">
+    <div>
+        <p>نام نویسنده خبر : @Model.Reporter.FirstName @Model.Reporter.LastName</p>
+    </div>
+    <div class="mb-3">
+        <p>در دسته بندی : @Model.Category.Title</p>
+    </div>
+    <div class="my-3">
+        <p>متن خبر : @Model.Description</p>
+    </div>
+
+    <a asp-action="ActivateNews" class="btn btn-sm btn-primary" asp-route-id="@Model.Id">فعال کردن</a>
+    <a asp-action="DeleteNews" class="btn btn-sm btn-danger" asp-route-id="@Model.Id">حذف کردن</a>
+    <a asp-action="Index" class="btn btn-sm btn-outline-secondary">بازگشت</a>
+</div>

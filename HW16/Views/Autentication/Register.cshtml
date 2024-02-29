@@ -1,0 +1,32 @@
+﻿@using Entities;
+@model Reporter
+
+<div class="container col-lg-4">
+    <div class="text-center">
+        @if (TempData["notFound"] != null)
+        {
+            <div class="alert alert-danger" role="alert">
+                <span>@TempData["notFound"].ToString()</span>
+            </div>
+        }
+    </div>
+
+    <form method="post">
+        <div class="text-danger" asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <input class="form-control" asp-for="@Model.FirstName" type="text" placeholder="نام" data-sb-validations="required" />
+        </div>
+        <div class="mb-3">
+            <input class="form-control" asp-for="@Model.LastName" type="text" placeholder="نام خانوادگی" data-sb-validations="required" />
+        </div>
+        <div class="mb-3">
+            <input class="form-control" asp-for="Email" type="email" placeholder="آدرس ایمیل" data-sb-validations="required,email" />
+        </div>
+        <div class="mb-3">
+            <input class="form-control" asp-for="Password" type="password" placeholder="رمز عبور" data-sb-validations="required" />
+        </div>
+        <div class="d-grid gap-2">
+            <button class="btn btn-primary" type="submit">تایید</button>
+        </div>
+    </form>
+</div>

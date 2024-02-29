@@ -1,0 +1,23 @@
+﻿@model LoginViewModel
+
+<div class="container col-lg-4">
+    <form asp-action="Login" method="post">
+        <div class="text-danger" asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <input class="form-control" asp-for="@Model.Emai" type="email" placeholder="آدرس ایمیل" data-sb-validations="required,email" />
+        </div>
+        <div class="mb-3">
+            <input class="form-control" asp-for="@Model.Password" type="password" placeholder="رمز عبور" data-sb-validations="required" />
+        </div>
+        <div class="mb-3">
+            <span>برای ثبت نام <a asp-action="Register">کلیک</a> کنید.</span>
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" asp-for="@Model.IsAdmin" />
+            <label class="form-check-label">ادمین هستم</label>
+        </div>
+        <div class="d-grid gap-2">
+            <button class="btn btn-primary" type="submit">تایید</button>
+        </div>
+    </form>
+</div>

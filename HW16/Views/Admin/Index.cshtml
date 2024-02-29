@@ -1,0 +1,48 @@
+﻿@using Entities
+@model List<News>
+
+@{
+    Layout = "_AdminLayout";
+    TempData["title"] = "صفحه ادمین";
+}
+
+<div class="text-center">
+    @if (TempData["success"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            <span>@TempData["success"].ToString()</span>
+        </div>
+    }
+</div>
+
+<div>
+    @if (TempData["currentAdmin"] != null)
+    {
+        <h3>خوش آمدید @TempData["currentAdmin"].ToString()</h3>
+    }
+</div>
+
+<div class="col-12 mb-3">
+    <div class="row">
+        <div class="border-bottom col-3 mx-auto text-center">
+            <h2>اخبار فعلی</h2>
+        </div>
+    </div>
+</div>
+
+
+@foreach (var New in Model)
+{
+    <div class="col-4 mb-2">
+        <div class="card">
+            <img src="@New.PictureLocation" width="150" height="100" class="card-img-top" alt="@New.PictureAlt" />
+            <div class="card-body">
+                <h5 class="card-title">@New.Title</h5>
+                <p>تعداد بازدید : @New.ViewCount</p>
+                <p class="card-text">@New.ShortDescription</p>
+                <a asp-controller="Admin" asp-action="NewsDetails" class="btn btn-primary" asp-route-id="@New.Id">مشاهده بیشتر</a>
+            </div>
+        </div>
+
+    </div>
+}

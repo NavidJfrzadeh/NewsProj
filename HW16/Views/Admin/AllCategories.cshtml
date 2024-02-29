@@ -1,0 +1,35 @@
+﻿@using Entities
+@model List<CategoryNews>
+
+@{
+    Layout = "_AdminLayout";
+    TempData["title"] = "صفحه دسته بندی ها";
+}
+
+
+<a asp-action="CreateCategory" class="btn btn-sm btn-primary col-3">ایجاد دسته بندی جدید</a>
+<table class="table table-responsive table-hover table-striped col-4">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">عنوان</th>
+            <th scope="col">تعداد اخبار</th>
+            <th scope="col">عملیات</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.catId</th>
+                <td>@item.CategoryTitle</td>
+                <td>@item.NewsCount</td>
+                <td>
+                    <a asp-action="Editcategory" class="btn btn-sm btn-warning" asp-route-id="@item.catId">ویرایش</a>
+                    <a asp-action="Deletecategory" class="btn btn-sm btn-danger" asp-route-id="@item.catId">حذف</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>

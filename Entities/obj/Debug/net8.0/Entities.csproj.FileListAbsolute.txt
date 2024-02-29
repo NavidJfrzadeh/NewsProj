@@ -1,0 +1,11 @@
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\bin\Debug\net8.0\Entities.deps.json
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\bin\Debug\net8.0\Entities.dll
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\bin\Debug\net8.0\Entities.pdb
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\Entities.dll
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\refint\Entities.dll
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\Entities.pdb
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\ref\Entities.dll

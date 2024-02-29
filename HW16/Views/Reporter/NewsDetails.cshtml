@@ -1,0 +1,32 @@
+﻿@using Entities
+@model News
+
+@{
+    Layout = "_ReporterLayout";
+}
+
+
+<h2>عنوان : @Model.Title</h2>
+
+<div class="container mt-3">
+    <img src="@Model.PictureLocation" alt="@Model.PictureAlt" />
+</div>
+
+<div>
+    <span>وضعیت : @Model.IsActive;</span>
+</div>
+
+<div class="container col-lg-10">
+    <div class="mb-3">
+        <p>نام نویسنده خبر : @Model.Reporter.FirstName @Model.Reporter.LastName</p>
+    </div>
+    <div class="mb-3">
+        <p>در دسته بندی : @Model.Category.Title</p>
+    </div>
+    <div class="my-3">
+        <p>متن خبر : @Model.Description</p>
+    </div>
+
+    <a asp-action="AllNews" class="btn btn-sm btn-outline-primary">بازگشت</a>
+    <a asp-action="EditNews" class="btn btn-sm btn-outline-warning" asp-route-id="@Model.Id">ویرایش</a>
+</div>
