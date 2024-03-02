@@ -31,6 +31,7 @@ namespace HW16.Controllers
             var targetNews = NewsRepo.GetById(id);
             if (targetNews != null)
             {
+                InMemoryDataBase.newsID = targetNews.Id;
                 NewsRepo.AddCount(id);
                 return View(targetNews);
             }
@@ -77,6 +78,17 @@ namespace HW16.Controllers
             }
 
             return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public IActionResult AddComment(Comment newComment)
+        {
+            int newsId = InMemoryDataBase.newsID;
+
+            var isSaved = ReporterService.AddComment(newComment,newsId);
+            if (isSaved)
+                return RedirectToAction("AllNews");
+            return RedirectToAction("AllNews");
         }
 
         public IActionResult DeleteNews(int id)

@@ -13,7 +13,7 @@ namespace Infrastructure.EF.Services
                 {
                     file.CopyToAsync(stream);
                 }
-                var ImageAddress = $"images\\{file.FileName}";
+                var ImageAddress = $"\\images\\{file.FileName}";
                 return ImageAddress;
             }
 

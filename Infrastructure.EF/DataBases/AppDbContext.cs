@@ -20,10 +20,12 @@ namespace Infrastructure.EF.DataBases
             modelBuilder.ApplyConfiguration(new CategoryEntityConfigs());
             modelBuilder.ApplyConfiguration(new ReporterEntityConfig());
             modelBuilder.ApplyConfiguration(new AdminEntityConfig());
+            modelBuilder.ApplyConfiguration(new CommentEntityComfig());
         }
         public DbSet<News> News { get; set; }
         public DbSet<Reporter> Reporters { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Admin> Admins { get; set; }
+        public DbSet<Comment> Comments { get; set; }
     }
 }

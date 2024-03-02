@@ -10,7 +10,7 @@ namespace HW16.Controllers
         NewsRepository NewsRepo = new NewsRepository();
         public IActionResult Index()
         {
-            var AllNews = NewsRepo.GetAll();
+            var AllNews = NewsRepo.GetActiveNews();
             return View(AllNews);
         }
 

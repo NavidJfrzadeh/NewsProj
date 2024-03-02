@@ -9,3 +9,4 @@ E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\Entities.dll
 E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\refint\Entities.dll
 E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\Entities.pdb
 E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\ref\Entities.dll
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Entities\obj\Debug\net8.0\Entities.sourcelink.json

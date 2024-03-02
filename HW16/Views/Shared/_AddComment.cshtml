@@ -1,0 +1,15 @@
+﻿@using Entities
+@model Comment
+
+<h3>ایجاد کامنت جدید</h3>
+
+<div class="container col-lg-5">
+    <form method="post" asp-action="AddComment" asp-controller="Reporter">
+        <label class="form-label" asp-for="@Model.Description">متن کامنت</label>
+        <input class="form-control" asp-for="@Model.Description" type="text" />
+
+        <div class="d-grid gap-2">
+            <input type="submit" class="btn btn-sm btn-outline-primary" value="ثبت" />
+        </div>
+    </form>
+</div>

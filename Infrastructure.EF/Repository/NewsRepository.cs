@@ -16,7 +16,8 @@ namespace Infrastructure.EF.Repository
 
         public List<News> GetAll() => Context.News
             .Include(x => x.Category)
-            .Include(x => x.Reporter).ToList();
+            .Include(x => x.Reporter)
+            .Include(x => x.Comments).ToList();
 
         public List<News> GetRecentNews()
         {
@@ -28,6 +29,7 @@ namespace Infrastructure.EF.Repository
         public News GetById(int id) => Context.News
             .Include(x => x.Category)
             .Include(x => x.Reporter)
+            .Include(x=>x.Comments)
             .FirstOrDefault(x => x.Id == id);
 
 
@@ -48,6 +50,20 @@ namespace Infrastructure.EF.Repository
             var targetNews = GetById(id);
             targetNews.ViewCount += 1;
             Context.SaveChanges();
+        }
+
+        public bool SaveComment(Comment newComment, int id)
+        {
+            var targetNews = GetById(id);
+            if (targetNews != null)
+            {
+                newComment.NewsId = id;
+                newComment.ReporterId = InMemoryDataBase.OnlineReporter.Id;
+                targetNews.Comments.Add(newComment);
+                Context.Comments.Add(newComment);
+                Context.SaveChanges();
+            }
+            return false;
         }
 
         public bool Create(News news, IFormFile file)

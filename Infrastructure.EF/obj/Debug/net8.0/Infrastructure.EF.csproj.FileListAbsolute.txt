@@ -15,3 +15,4 @@ E:\My Files\MaktabC#\HW16-Cw18\HW16\Infrastructure.EF\obj\Debug\net8.0\refint\In
 E:\My Files\MaktabC#\HW16-Cw18\HW16\Infrastructure.EF\obj\Debug\net8.0\Infrastructure.EF.pdb
 E:\My Files\MaktabC#\HW16-Cw18\HW16\Infrastructure.EF\obj\Debug\net8.0\Infrastructure.EF.genruntimeconfig.cache
 E:\My Files\MaktabC#\HW16-Cw18\HW16\Infrastructure.EF\obj\Debug\net8.0\ref\Infrastructure.EF.dll
+E:\My Files\MaktabC#\HW16-Cw18\HW16\Infrastructure.EF\obj\Debug\net8.0\Infrastructure.EF.sourcelink.json

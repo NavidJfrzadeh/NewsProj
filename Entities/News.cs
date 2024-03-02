@@ -17,6 +17,7 @@
         public Category Category { get; set; }
         public int ReporterId { get; set; }
         public Reporter Reporter { get; set; }
+        public List<Comment>? Comments { get; set; } = new List<Comment>();
         public bool IsActive { get; set; }
     }
 }

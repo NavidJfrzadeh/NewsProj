@@ -559,3 +559,4 @@ E:\My Files\MaktabC#\HW16-Cw18\HW16\HW16\bin\Debug\net8.0\refs\WindowsBase.dll
 E:\My Files\MaktabC#\HW16-Cw18\HW16\HW16\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 E:\My Files\MaktabC#\HW16-Cw18\HW16\HW16\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 E:\My Files\MaktabC#\HW16-Cw18\HW16\HW16\obj\Debug\net8.0\HW16.MvcApplicationPartsAssemblyInfo.cs
+E:\My Files\MaktabC#\HW16-Cw18\HW16\HW16\obj\Debug\net8.0\HW16.sourcelink.json

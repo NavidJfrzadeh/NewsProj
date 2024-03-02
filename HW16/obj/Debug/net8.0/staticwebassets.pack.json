@@ -13,24 +13,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\images\\p1.jpg",
-      "PackagePath": "staticwebassets\\images\\p1.jpg"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\images\\p2.png",
-      "PackagePath": "staticwebassets\\images\\p2.png"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\images\\p4.jpg",
-      "PackagePath": "staticwebassets\\images\\p4.jpg"
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\p3.jpg"
     },
     {
       "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\images\\p5.jpg",
       "PackagePath": "staticwebassets\\images\\p5.jpg"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\images\\p6.jpg",
-      "PackagePath": "staticwebassets\\images\\p6.jpg"
     },
     {
       "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\js\\site.js",

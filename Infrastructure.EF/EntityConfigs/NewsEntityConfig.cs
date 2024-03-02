@@ -20,6 +20,10 @@ namespace Infrastructure.EF.EntityConfigs
             builder.HasOne<Category>(x => x.Category)
                 .WithMany(y => y.News)
                 .HasForeignKey(x => x.CategoryId);
+            builder.HasMany(p => p.Comments)
+                .WithOne(c => c.News)
+                .HasForeignKey(c=>c.NewsId)
+                .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

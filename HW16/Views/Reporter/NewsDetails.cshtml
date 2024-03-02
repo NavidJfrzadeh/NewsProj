@@ -29,4 +29,36 @@
 
     <a asp-action="AllNews" class="btn btn-sm btn-outline-primary">بازگشت</a>
     <a asp-action="EditNews" class="btn btn-sm btn-outline-warning" asp-route-id="@Model.Id">ویرایش</a>
+
+    <div class="my-2">
+        <table class="table table-hover table-striped table-responsive">
+            <thead>
+                <tr>
+                    <th scope="col">نام شخص</th>
+                    <th scope="col">متن کامنت</th>
+                    <th scope="col">لایک ها</th>
+                    <th scope="col">عملیات</th>
+                </tr>
+            </thead>
+            <tbody class="table-group-dvider">
+                <tr>
+                    @foreach (var item in Model.Comments)
+                    {
+                        <td>@item.Reporter.LastName</td>
+                        <td>@item.Description</td>
+                        <td>@item.Likes</td>
+                        <td>
+                            <a asp-controller="Comment" asp-action="LikeComment" class="btn btn-sm btn-success" asp-route-id="@item.Id">لایک</a>
+                            <a asp-controller="Comment" asp-action="DisLikeComment" class="btn btn-sm btn-danger" asp-route-id="@item.Id">دیسلایک</a>
+                        </td>
+                    }
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
+
+@if (Model.IsActive)
+{
+    @Html.Partial("/Views/Shared/_AddComment.cshtml", new Comment())
+}

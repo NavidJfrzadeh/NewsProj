@@ -25,5 +25,12 @@ namespace Infrastructure.EF.Services
             return ReporterNews;
 
         }
+
+        public bool AddComment(Comment comment,int id)
+        {
+            bool isSave = NewsRepo.SaveComment(comment,id);
+
+            return isSave;
+        }
     }
 }
