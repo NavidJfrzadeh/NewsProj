@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\views\\autentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\views\\autentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\controllers\\reportercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\controllers\\reportercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\views\\autentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\views\\autentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5ED1EB9D-E02F-4CFA-8B94-6CB53563114A}|Infrastructure.EF\\Infrastructure.EF.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\infrastructure.ef\\repository\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ED1EB9D-E02F-4CFA-8B94-6CB53563114A}|Infrastructure.EF\\Infrastructure.EF.csproj|solutionrelative:infrastructure.ef\\repository\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ED1EB9D-E02F-4CFA-8B94-6CB53563114A}|Infrastructure.EF\\Infrastructure.EF.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\infrastructure.ef\\myclasses\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5ED1EB9D-E02F-4CFA-8B94-6CB53563114A}|Infrastructure.EF\\Infrastructure.EF.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\infrastructure.ef\\repository\\reporterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ED1EB9D-E02F-4CFA-8B94-6CB53563114A}|Infrastructure.EF\\Infrastructure.EF.csproj|solutionrelative:infrastructure.ef\\repository\\reporterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\controllers\\reportercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\controllers\\reportercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ED1EB9D-E02F-4CFA-8B94-6CB53563114A}|Infrastructure.EF\\Infrastructure.EF.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\infrastructure.ef\\myclasses\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,18 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\views\\autentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\views\\autentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\views\\autentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\views\\autentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ED1EB9D-E02F-4CFA-8B94-6CB53563114A}|Infrastructure.EF\\Infrastructure.EF.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\infrastructure.ef\\services\\uploadfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,10 +183,6 @@
       "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\views\\reporter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ED1EB9D-E02F-4CFA-8B94-6CB53563114A}|Infrastructure.EF\\Infrastructure.EF.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\infrastructure.ef\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ED1EB9D-E02F-4CFA-8B94-6CB53563114A}|Infrastructure.EF\\Infrastructure.EF.csproj|solutionrelative:infrastructure.ef\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -189,10 +193,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\views\\shared\\_reporterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\views\\shared\\_reporterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\hw16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64A3EE0A-ADC8-49DF-B230-E47A652AEE41}|HW16\\HW16.csproj|solutionrelative:hw16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ED1EB9D-E02F-4CFA-8B94-6CB53563114A}|Infrastructure.EF\\Infrastructure.EF.csproj|e:\\my files\\maktabc#\\hw16-cw18\\hw16\\infrastructure.ef\\entityconfigs\\adminentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -222,17 +222,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "NewsRepository.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Repository\\NewsRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\Repository\\NewsRepository.cs",
               "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Repository\\NewsRepository.cs",
               "RelativeToolTip": "Infrastructure.EF\\Repository\\NewsRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA4wBIAAAAlAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T09:11:09.052Z",
               "IsPinned": true,
@@ -240,20 +240,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ReporterController.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Controllers\\ReporterController.cs",
               "RelativeDocumentMoniker": "HW16\\Controllers\\ReporterController.cs",
               "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Controllers\\ReporterController.cs",
               "RelativeToolTip": "HW16\\Controllers\\ReporterController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAcwB4AAAAMAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwB4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T13:15:35.527Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "NewsDetails.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Reporter\\NewsDetails.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Reporter\\NewsDetails.cshtml",
@@ -266,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "CommentController.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Controllers\\CommentController.cs",
               "RelativeDocumentMoniker": "HW16\\Controllers\\CommentController.cs",
@@ -287,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "NewsDTO.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\MyClasses\\NewsDTO.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\MyClasses\\NewsDTO.cs",
@@ -299,43 +300,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure.EF\\Repository\\CategoryRepository.cs",
-              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "Infrastructure.EF\\Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T09:21:33.011Z"
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Autentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "HW16\\Views\\Autentication\\Login.cshtml",
+              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Autentication\\Login.cshtml*",
+              "RelativeToolTip": "HW16\\Views\\Autentication\\Login.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T14:39:11.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryNews.cs",
-              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\MyClasses\\CategoryNews.cs",
-              "RelativeDocumentMoniker": "Infrastructure.EF\\MyClasses\\CategoryNews.cs",
-              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\MyClasses\\CategoryNews.cs",
-              "RelativeToolTip": "Infrastructure.EF\\MyClasses\\CategoryNews.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T04:37:44.938Z"
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Autentication\\Register.cshtml",
+              "RelativeDocumentMoniker": "HW16\\Views\\Autentication\\Register.cshtml",
+              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Autentication\\Register.cshtml",
+              "RelativeToolTip": "HW16\\Views\\Autentication\\Register.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T17:40:26.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "News.cs",
-              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Entities\\News.cs",
-              "RelativeDocumentMoniker": "Entities\\News.cs",
-              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Entities\\News.cs",
-              "RelativeToolTip": "Entities\\News.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T08:54:28.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Comment.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Entities\\Comment.cs",
               "RelativeDocumentMoniker": "Entities\\Comment.cs",
@@ -347,7 +338,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "AutenticationController.cs",
+              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Controllers\\AutenticationController.cs",
+              "RelativeDocumentMoniker": "HW16\\Controllers\\AutenticationController.cs",
+              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Controllers\\AutenticationController.cs",
+              "RelativeToolTip": "HW16\\Controllers\\AutenticationController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:40:18.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HW16\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HW16\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAAOIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T08:21:44.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ReporterRepository.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Repository\\ReporterRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\Repository\\ReporterRepository.cs",
@@ -359,7 +376,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.EF\\Repository\\CategoryRepository.cs",
+              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure.EF\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:21:33.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryNews.cs",
+              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\MyClasses\\CategoryNews.cs",
+              "RelativeDocumentMoniker": "Infrastructure.EF\\MyClasses\\CategoryNews.cs",
+              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\MyClasses\\CategoryNews.cs",
+              "RelativeToolTip": "Infrastructure.EF\\MyClasses\\CategoryNews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T04:37:44.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CommentDTO.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\MyClasses\\CommentDTO.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\MyClasses\\CommentDTO.cs",
@@ -371,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "NewsEntityConfig.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\EntityConfigs\\NewsEntityConfig.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\EntityConfigs\\NewsEntityConfig.cs",
@@ -383,7 +424,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HW16\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HW16\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T08:27:26.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "News.cs",
+              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "Entities\\News.cs",
+              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Entities\\News.cs",
+              "RelativeToolTip": "Entities\\News.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:54:28.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ReporterService.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Services\\ReporterService.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\Services\\ReporterService.cs",
@@ -395,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "CommentRepository.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Repository\\CommentRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\Repository\\CommentRepository.cs",
@@ -407,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "AdminRepository.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Repository\\AdminRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\Repository\\AdminRepository.cs",
@@ -419,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "AdminController.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "HW16\\Controllers\\AdminController.cs",
@@ -427,11 +493,12 @@
               "RelativeToolTip": "HW16\\Controllers\\AdminController.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAA8wDsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T14:33:56.43Z"
+              "WhenOpened": "2024-02-28T14:33:56.43Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "_AddComment.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Shared\\_AddComment.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Shared\\_AddComment.cshtml",
@@ -443,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HW16\\Controllers\\HomeController.cs",
@@ -455,19 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Autentication\\Login.cshtml",
-              "RelativeDocumentMoniker": "HW16\\Views\\Autentication\\Login.cshtml",
-              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Autentication\\Login.cshtml",
-              "RelativeToolTip": "HW16\\Views\\Autentication\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T14:39:11.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "UploadFileService.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Services\\UploadFileService.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\Services\\UploadFileService.cs",
@@ -479,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "NewsDetails.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Admin\\NewsDetails.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Admin\\NewsDetails.cshtml",
@@ -491,31 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AutenticationController.cs",
-              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Controllers\\AutenticationController.cs",
-              "RelativeDocumentMoniker": "HW16\\Controllers\\AutenticationController.cs",
-              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Controllers\\AutenticationController.cs",
-              "RelativeToolTip": "HW16\\Controllers\\AutenticationController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T17:40:18.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Autentication\\Register.cshtml",
-              "RelativeDocumentMoniker": "HW16\\Views\\Autentication\\Register.cshtml",
-              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Autentication\\Register.cshtml",
-              "RelativeToolTip": "HW16\\Views\\Autentication\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-02T17:40:26.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ReporterEntityConfig.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\EntityConfigs\\ReporterEntityConfig.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\EntityConfigs\\ReporterEntityConfig.cs",
@@ -527,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "CommentEntityComfig.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\EntityConfigs\\CommentEntityComfig.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\EntityConfigs\\CommentEntityComfig.cs",
@@ -539,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "EditNews.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Reporter\\EditNews.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Reporter\\EditNews.cshtml",
@@ -551,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "InMemoryDataBase.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\DataBases\\InMemoryDataBase.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\DataBases\\InMemoryDataBase.cs",
@@ -563,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "AllNews.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Reporter\\AllNews.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Reporter\\AllNews.cshtml",
@@ -587,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\DataBases\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\DataBases\\AppDbContext.cs",
@@ -599,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Reporter.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Entities\\Reporter.cs",
               "RelativeDocumentMoniker": "Entities\\Reporter.cs",
@@ -611,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Visitor.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Entities\\Visitor.cs",
               "RelativeDocumentMoniker": "Entities\\Visitor.cs",
@@ -623,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "CategoryEntityConfigs.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\EntityConfigs\\CategoryEntityConfigs.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\EntityConfigs\\CategoryEntityConfigs.cs",
@@ -635,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Entities\\Category.cs",
@@ -647,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "HW16\\Models\\LoginViewModel.cs",
@@ -659,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "AllCategories.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Admin\\AllCategories.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Admin\\AllCategories.cshtml",
@@ -671,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "RecentNews.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Admin\\RecentNews.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Admin\\RecentNews.cshtml",
@@ -683,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Admin\\Index.cshtml",
@@ -695,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "EditCategory.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Admin\\EditCategory.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Admin\\EditCategory.cshtml",
@@ -707,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "CreateCategory.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Admin\\CreateCategory.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Admin\\CreateCategory.cshtml",
@@ -719,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "Admin.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Entities\\Admin.cs",
               "RelativeDocumentMoniker": "Entities\\Admin.cs",
@@ -731,7 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "NewsDetails.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Home\\NewsDetails.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Home\\NewsDetails.cshtml",
@@ -743,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Reporter\\Index.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Reporter\\Index.cshtml",
@@ -755,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Shared\\_AdminLayout.cshtml",
@@ -767,19 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "HW16\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "HW16\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T08:27:26.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "AdminService.cs",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\Infrastructure.EF\\Services\\AdminService.cs",
               "RelativeDocumentMoniker": "Infrastructure.EF\\Services\\AdminService.cs",
@@ -791,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "AddNews.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Reporter\\AddNews.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Reporter\\AddNews.cshtml",
@@ -804,18 +823,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 47,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HW16\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HW16\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAAAqwCIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T08:21:44.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
               "Title": "_ReporterLayout.cshtml",
               "DocumentMoniker": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\Views\\Shared\\_ReporterLayout.cshtml",
               "RelativeDocumentMoniker": "HW16\\Views\\Shared\\_ReporterLayout.cshtml",

@@ -5,12 +5,336 @@
       "PackagePath": "staticwebassets\\HW16.bundle.scp.css"
     },
     {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\css\\all.css"
     },
     {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\css\\elegant-font-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elegant-font-icons.css"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\ElegantIconsd41dd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIconsd41dd41d.eot"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\Yekan.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Yekan.woff"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400d41dd41d.eot"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400d41dd41d.eot"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900d41dd41d.eot"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\404.html",
+      "PackagePath": "staticwebassets\\assets\\img\\404.html"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\about-us.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-us.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\author\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\1.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\10.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\11.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\12.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\14.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\15.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\16.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\2.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\20.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\21.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\22.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\23.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\24.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\25.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\26.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\27.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\28.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\28.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\3.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\4.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\5.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\6.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\7.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\8.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\blog\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\9.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\hero\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\1.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\hero\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\2.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\hero\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\3.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\instagram\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\1.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\instagram\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\2.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\instagram\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\3.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\instagram\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\4.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\instagram\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\5.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\instagram\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\6.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\latest\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest\\1.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\latest\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest\\2.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\latest\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest\\3.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\latest\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest\\4.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-white.png"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\user\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\1.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\img\\user\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\2.jpg"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\js\\ajax-contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-contact.js"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\js\\jquery-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.5.0.min.js"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\assets\\js\\switch.js",
+      "PackagePath": "staticwebassets\\assets\\js\\switch.js"
     },
     {
       "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\images\\p3.jpg",
@@ -19,254 +343,6 @@
     {
       "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\images\\p5.jpg",
       "PackagePath": "staticwebassets\\images\\p5.jpg"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "E:\\My Files\\MaktabC#\\HW16-Cw18\\HW16\\HW16\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HW16.Microsoft.AspNetCore.StaticWebAssets.props",

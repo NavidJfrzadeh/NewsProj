@@ -1,6 +1,10 @@
 ﻿@using Entities;
 @model Reporter
 
+@{
+    ViewData["Title"] = "ثبت نام";
+}
+
 <div class="container col-lg-4">
     <div class="text-center">
         @if (TempData["notFound"] != null)
@@ -11,22 +15,42 @@
         }
     </div>
 
-    <form method="post">
-        <div class="text-danger" asp-validation-summary="All"></div>
-        <div class="mb-3">
-            <input class="form-control" asp-for="@Model.FirstName" type="text" placeholder="نام" data-sb-validations="required" />
+    <!--register-->
+    <section class="section pt-55 mb-50">
+        <div class="container-fluid">
+            <div class="sign widget">
+                <div class="section-title">
+                    <h5>ثبت نام</h5>
+                </div>
+
+                <form asp-action="Register" class="sign-form widget-form contact_form " method="post">
+                    <div class="form-group">
+
+                        <input type="text" class="form-control" placeholder="نام کاربری *" asp-for="@Model.FirstName">
+                    </div>
+                    <div class="form-group">
+
+                        <input type="text" class="form-control" placeholder="نام خانوادگی *" asp-for="@Model.LastName">
+                    </div>
+                    <div class="form-group">
+
+                        <input type="email" class="form-control" placeholder="آدرس ایمیل *" asp-for="@Model.Email">
+                    </div>
+                    <div class="form-group">
+
+                        <input type="password" class="form-control" placeholder="رمز عبور *" asp-for="@Model.Password">
+                    </div>
+                    <div class="sign-controls form-group">
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="rememberMe">
+                            <label class="custom-control-label" for="rememberMe">با تمامی <a href="#" class="btn-link">شرایط و ضوابط</a> موافقم. </label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn-custom">ثبت نام</button>
+                    </div>
+                    <p class="form-group text-center">حساب کاربری دارید؟ <a asp-action="Login" class="btn-link">وارد شوید</a> </p>
+                </form>
+            </div>
         </div>
-        <div class="mb-3">
-            <input class="form-control" asp-for="@Model.LastName" type="text" placeholder="نام خانوادگی" data-sb-validations="required" />
-        </div>
-        <div class="mb-3">
-            <input class="form-control" asp-for="Email" type="email" placeholder="آدرس ایمیل" data-sb-validations="required,email" />
-        </div>
-        <div class="mb-3">
-            <input class="form-control" asp-for="Password" type="password" placeholder="رمز عبور" data-sb-validations="required" />
-        </div>
-        <div class="d-grid gap-2">
-            <button class="btn btn-primary" type="submit">تایید</button>
-        </div>
-    </form>
-</div>
+    </section>
