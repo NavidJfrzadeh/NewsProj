@@ -28,10 +28,10 @@ namespace HW16.Controllers
 
         public IActionResult NewsDetails(int id)
         {
-            var targetNews = NewsRepo.GetById(id);
+            var targetNews = NewsRepo.GetBYId(id);
             if (targetNews != null)
             {
-                InMemoryDataBase.newsID = targetNews.Id;
+                //InMemoryDataBase.newsID = targetNews.Id;
                 NewsRepo.AddCount(id);
                 return View(targetNews);
             }

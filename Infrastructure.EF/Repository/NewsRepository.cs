@@ -1,5 +1,6 @@
 ﻿using Entities;
 using Infrastructure.EF.DataBases;
+using Infrastructure.EF.MyClasses;
 using Infrastructure.EF.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
@@ -29,8 +30,33 @@ namespace Infrastructure.EF.Repository
         public News GetById(int id) => Context.News
             .Include(x => x.Category)
             .Include(x => x.Reporter)
-            .Include(x=>x.Comments)
+            .Include(x => x.Comments).ThenInclude(y => y.Reporter)
             .FirstOrDefault(x => x.Id == id);
+
+        public NewsDTO GetBYId(int id)
+        {
+            var news = Context.News.Where(x => x.Id == id)
+            .Select(x => new NewsDTO
+            {
+                Title = x.Title,
+                ShortDescription = x.ShortDescription,
+                Description = x.Description,
+                CategoryTitle = x.Category.Title,
+                ReporterName = x.Reporter.LastName,
+                PictureLocation = x.PictureLocation,
+                PictureAlt = x.PictureAlt,
+                Comments = x.Comments.Select(c => new CommentDTO
+                {
+                    Description = c.Description,
+                    Likes = c.Likes,
+                    ReporterName = c.Reporter.LastName,
+                }).ToList()
+            });
+
+            //var q = news.ToQueryString();
+
+            return news.FirstOrDefault();
+        }
 
 
         public bool Activate(int id)

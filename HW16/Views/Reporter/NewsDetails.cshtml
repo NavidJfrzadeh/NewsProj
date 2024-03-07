@@ -41,9 +41,9 @@
                 </tr>
             </thead>
             <tbody class="table-group-dvider">
-                <tr>
-                    @foreach (var item in Model.Comments)
-                    {
+                @foreach (var item in Model.Comments)
+                {
+                    <tr>
                         <td>@item.Reporter.LastName</td>
                         <td>@item.Description</td>
                         <td>@item.Likes</td>
@@ -51,8 +51,8 @@
                             <a asp-controller="Comment" asp-action="LikeComment" class="btn btn-sm btn-success" asp-route-id="@item.Id">لایک</a>
                             <a asp-controller="Comment" asp-action="DisLikeComment" class="btn btn-sm btn-danger" asp-route-id="@item.Id">دیسلایک</a>
                         </td>
-                    }
-                </tr>
+                    </tr>
+                }
             </tbody>
         </table>
     </div>
